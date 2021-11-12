@@ -1,0 +1,6 @@
+.user-disposition {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+}
